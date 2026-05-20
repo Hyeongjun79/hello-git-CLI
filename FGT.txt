@@ -2,3 +2,4 @@ HELLO FUCK GIT
 HI FUCK CLI
 third - my branch 2
 fourth - my branch
+some hot fix
